@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shyamprasath
 - 👀 I’m interested in cyber security and techical & computer related stuffs
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning B.tech EEE
+
+
 
 <!---
 shyamprasath18/shyamprasath18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
