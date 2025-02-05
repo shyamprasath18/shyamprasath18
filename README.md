@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @shyamprasath
 - 👀 I’m interested in cyber security and techical & computer related stuffs
-- 🌱 I’m currently learning B.tech EEE
+- 🌱 I’m currently working as a Security Enginner.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=413992" style='border:none;'></iframe>
 
 
 <!---
